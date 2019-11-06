@@ -8,12 +8,12 @@ Angular front-end - if Karl joins in
   
 probably different media types: 
 
-  * books
+  * [books](models/books.md)
   
-  * movies
+  * [movies](models/movies.md)
   
-  * tv shows
+  * [tv shows]()
   
-  * anime
+  * [anime](models/anime.md)
   
 different models(or maybe an interface?) for each one 
