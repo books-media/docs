@@ -1,0 +1,5 @@
+title (String)
+season (String)
+episodes (int)
+last seen (date)
+last episode seen (int/string?)
